@@ -7,7 +7,7 @@
       </button>
     </div>
     <div>
-      <button class="btn2" @click="viewIf()">
+      <button class="btn3" @click="viewIf()">
         IF切り替え
       </button>
     </div>
